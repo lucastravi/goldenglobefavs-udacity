@@ -1,6 +1,4 @@
-# Movie Trailer Website - Lucas Travi
-
-# Version: 0.1
+# Movie Trailer Website
 
 The **Movie Trailer Website** is a Python 2.7 application that stores my favorite movies and series information (name, director, IMDB and Rotten Tomatoes rating, cover images, etc.) that had been nominated for the Golden Globe Awards 2017 [1] and runs a movie trailer/season teaser from YouTube by clicking in the movies/series cover images.
 
